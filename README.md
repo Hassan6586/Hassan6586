@@ -64,5 +64,5 @@ Complete infrastructure monitoring with Prometheus, Grafana, and Node Exporter.
 ---
 
 ### 🤝 Connect with Me
-- LinkedIn: [your LinkedIn profile]  
-- Email: [your email]
+- LinkedIn: https://www.linkedin.com/in/mhassanjaved555/  
+- Email: hassantechnologies555@gmail.com
