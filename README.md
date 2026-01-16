@@ -9,7 +9,7 @@ My focus is on CI/CD, containerization, and cloud-native technologies to improve
 ### 🧠 About Me
 - 🎓 Completed EduQual Level 6 in AIOps.  
 - 🧩 Skilled in Kubernetes, Docker, Jenkins, Terraform, and CI/CD pipelines.  
-- ☁️ Hands-on with AWS, Azure, and DigitalOcean.  
+- ☁️ Hands-on with AWS, Azure, and GCP.  
 - 💬 Passionate about infrastructure automation and cloud orchestration.  
 - 🌍 Based in Karachi, Pakistan.  
 - 📫 Contact: hassantechnologies555@gmail.com  
