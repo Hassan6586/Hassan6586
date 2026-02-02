@@ -49,12 +49,7 @@ Complete infrastructure monitoring with Prometheus, Grafana, and Node Exporter.
 
 ---
 
-### 📊 GitHub Analytics
 
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
 
 ### 🎓 Certifications
 - EduQual Level 6 in AIOps  
