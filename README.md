@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hassan
-### DevOps Engineer | Cloud & Automation Specialist | AIOps Certified
+### DevOps Engineer | Cloud & Automation | AIOps Certified
 
 I design and implement automated, scalable, and secure infrastructures.  
 My focus is on CI/CD, containerization, and cloud-native technologies to improve delivery speed and system reliability.
