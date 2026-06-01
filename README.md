@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hassan
+# 👋 Asslamoalikum, I'm Hassan Javed
 ### DevOps Engineer | Cloud & Automation | AIOps Certified
 
 I design and implement automated, scalable, and secure infrastructures.  
@@ -54,9 +54,13 @@ Complete infrastructure monitoring with Prometheus, Grafana, and Node Exporter.
 ### 🎓 Certifications
 - EduQual Level 6 in AIOps  
 - Microsoft Certified: Azure Fundamentals  
-- Docker and Kubernetes for Beginners  
+- Cisco DevNet Assiocate
+- Aws Solution Artitech 
 
 ---
+
+
+
 
 ### 🤝 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/mhassanjaved555/  
